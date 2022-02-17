@@ -260,7 +260,7 @@
       "autoUpgradeMinorVersion": true,
       "settings": {
         "fileUris": [
-          "https://raw.githubusercontent.com/AnusuyaBhattacharjee/IEenhance/main/installWebServer.ps1"
+          "https://raw.githubusercontent.com/Azure/azure-docs-json-samples/master/tutorial-vm-extension/installWebServer.ps1"
         ],
         "commandToExecute": "powershell.exe -ExecutionPolicy Unrestricted -File installWebServer.ps1"
       }
