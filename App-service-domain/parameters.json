@@ -1,0 +1,72 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "subscriptionId": {
+            "value": "e6e5442e-a501-43a4-b9ba-85c484a90738"
+        },
+        "domainName": {
+            "value": "dev-test.org.uk"
+        },
+        "resourceGroup": {
+            "value": "test"
+        },
+        "agreementKeys": {
+            "value": [
+                "DNRA",
+                "DNPA"
+            ]
+        },
+        "AgreedBy": {
+            "value": "103.161.57.178:"
+        },
+        "AgreedAt": {
+            "value": "2022-03-02T11:38:03.085Z"
+        },
+        "Address1": {
+            "value": "6/20 Chittaranjan colony Jadavpur Kolkata"
+        },
+        "Address2": {
+            "value": ""
+        },
+        "City": {
+            "value": "Kolkata"
+        },
+        "Country": {
+            "value": "IN"
+        },
+        "PostalCode": {
+            "value": "700032"
+        },
+        "State": {
+            "value": "West Bengal"
+        },
+        "Email": {
+            "value": "anubhat@microsoft.com"
+        },
+        "JobTitle": {
+            "value": ""
+        },
+        "NameFirst": {
+            "value": "Anusuya"
+        },
+        "NameLast": {
+            "value": "Bhattacharjee"
+        },
+        "NameMiddle": {
+            "value": ""
+        },
+        "Organization": {
+            "value": "Microsoft"
+        },
+        "Phone": {
+            "value": "+91.8861483417"
+        },
+        "autoRenew": {
+            "value": false
+        },
+        "privacy": {
+            "value": true
+        }
+    }
+}
